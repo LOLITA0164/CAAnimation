@@ -23,12 +23,18 @@
     
     [self initUI];
     
+    
+    
+    
+    
 }
 
 
 
 
 -(void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event{
+    
+    
     
     
     // 动画块
